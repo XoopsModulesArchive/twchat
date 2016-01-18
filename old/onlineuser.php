@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 include 'mainfile.php';
 
 // Hack by Stefano Silvestrini - www.stefanosilvestrini.com
